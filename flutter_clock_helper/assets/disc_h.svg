@@ -1,0 +1,30 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="852" height="852" viewBox="0 0 852 852">
+  <g id="disc_hours" transform="translate(0 -0.5)">
+    <circle id="bg" cx="425" cy="425" r="425" transform="translate(1 1)" fill="#2c2c2c"/>
+    <g id="_12_6" data-name="12_6">
+      <text id="_12" data-name="12" transform="translate(710 333)" fill="#d0d0d0" font-size="120" font-family="Oswald" font-weight="200" text-anchor="middle"><tspan x="55.66" y="143">12</tspan></text>
+      <text id="_6" data-name="6" transform="translate(142 520) rotate(180)" fill="#d0d0d0" font-size="120" font-family="Oswald" font-weight="200" text-anchor="middle"><tspan x="55.24" y="143">6</tspan></text>
+    </g>
+    <g id="_1_7" data-name="1_7" transform="translate(-156.177 270.14) rotate(-30)">
+      <text id="_1" data-name="1" transform="translate(710 333)" fill="#d0d0d0" font-size="120" font-family="Oswald" font-weight="200" text-anchor="middle"><tspan x="60" y="143">1</tspan></text>
+      <text id="_7" data-name="7" transform="translate(142 520) rotate(180)" fill="#d0d0d0" font-size="120" font-family="Oswald" font-weight="200" text-anchor="middle"><tspan x="55.34" y="143">7</tspan></text>
+    </g>
+    <g id="_2_8" data-name="2_8" transform="translate(-156.36 582.177) rotate(-60)">
+      <text id="_2" data-name="2" transform="translate(710 333)" fill="#d0d0d0" font-size="120" font-family="Oswald" font-weight="200" text-anchor="middle"><tspan x="61.66" y="143">2</tspan></text>
+      <text id="_8" data-name="8" transform="translate(142 520) rotate(180)" fill="#d0d0d0" font-size="120" font-family="Oswald" font-weight="200" text-anchor="middle"><tspan x="55.06" y="143">8</tspan></text>
+    </g>
+    <g id="_3_9" data-name="3_9" transform="translate(-0.5 852.5) rotate(-90)">
+      <text id="_3" data-name="3" transform="translate(710 333)" fill="#d0d0d0" font-size="120" font-family="Oswald" font-weight="200" text-anchor="middle"><tspan x="61.9" y="143">3</tspan></text>
+      <text id="_9" data-name="9" transform="translate(142 520) rotate(180)" fill="#d0d0d0" font-size="120" font-family="Oswald" font-weight="200" text-anchor="middle"><tspan x="60.94" y="143">9</tspan></text>
+    </g>
+    <g id="_4_10" data-name="4_10" transform="translate(269.64 1008.677) rotate(-120)">
+      <text id="_4" data-name="4" transform="translate(710 333)" fill="#d0d0d0" font-size="120" font-family="Oswald" font-weight="200" text-anchor="middle"><tspan x="61.42" y="143">4</tspan></text>
+      <text id="_10" data-name="10" transform="translate(142 520) rotate(180)" fill="#d0d0d0" font-size="120" font-family="Oswald" font-weight="200" text-anchor="middle"><tspan x="55.98" y="143">10</tspan></text>
+    </g>
+    <g id="_5_11" data-name="5_11" transform="translate(581.677 1008.86) rotate(-150)">
+      <text id="_5" data-name="5" transform="translate(710 333)" fill="#d0d0d0" font-size="120" font-family="Oswald" font-weight="200" text-anchor="middle"><tspan x="62.38" y="143">5</tspan></text>
+      <text id="_11" data-name="11" transform="translate(142 520) rotate(180)" fill="#d0d0d0" font-size="120" font-family="Oswald" font-weight="200" text-anchor="middle"><tspan x="55" y="143">11</tspan></text>
+    </g>
+  </g>
+</svg>
